@@ -2,6 +2,9 @@
 - Um case real para a área de Compras, focado no desenvolvimento de um cálculo de Saving preciso, solucionando um desafio clássico de SQL: **"Gaps and Islands"**.
 
 - Este documento apresenta a lógica em SQL criada para resolver o problema e gerar um indicador de performance confiável para a área de negócio.
+
+- ## ⚠️ Disclaimer
+O código e os dados contidos neste repositório são **puramente demonstrativos** e foram criados para fins de portfólio. Todos os valores, nomes e datas são **fictícios** e não representam informações de nenhuma empresa real. O objetivo deste case é compartilhar a **metodologia e a lógica SQL** aplicadas para resolver um problema de negócio comum, sem expor dados sensíveis ou propriedade intelectual.
   
 ### 1) O Desafio: Entendendo "Gaps and Islands"
 
