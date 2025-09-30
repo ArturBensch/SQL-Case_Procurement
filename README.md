@@ -1,4 +1,4 @@
-# Case for Procurement with SQL
+# Case for Procurement with SQL - SAVING
 - Um case real para a área de Compras, focado no desenvolvimento de um cálculo de Saving preciso, solucionando um desafio clássico de SQL: **"Gaps and Islands"**.
 
 - Este documento apresenta a lógica em SQL criada para resolver o problema e gerar um indicador de performance confiável para a área de negócio.
